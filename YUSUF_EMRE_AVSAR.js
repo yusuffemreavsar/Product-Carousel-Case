@@ -271,7 +271,7 @@ Date: 13/01/2025
       $("img").on("click", function () {
         const url = $(this).data("url");
         if (url) {
-          window.location.href = url;
+            window.open(url, "_blank");
         }
       });
     };
