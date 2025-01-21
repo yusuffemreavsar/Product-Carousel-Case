@@ -1,4 +1,4 @@
-#Product Carousel Case
+# Product Carousel Case
 Product Carousel Case(Javascript &amp; jQuery)
 
 This project adds a responsive and interactive product carousel to LC Waikiki's product pages. 
