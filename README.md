@@ -32,7 +32,4 @@ Below are some screenshots from the implemented carousel for reference:
 
 ### Mobile View
 ![mobil](https://github.com/user-attachments/assets/4c2eeefc-6241-49bb-a522-42d4852f68b6)
-
-### Browser Console View
-![console](https://github.com/user-attachments/assets/a20ee284-e48b-4ac4-a9c8-e8e62fc6b8be)
 ---
