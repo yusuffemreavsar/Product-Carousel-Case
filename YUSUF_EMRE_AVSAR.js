@@ -1,6 +1,6 @@
 /*
-Project Name: Insider Product Carousel Case
-GitHub Repository: https://github.com/yusuffemreavsar/Insider-Product-Carousel-Case
+Project Name: Product Carousel Case
+GitHub Repository: https://github.com/yusuffemreavsar/Product-Carousel-Case
 Developer: Yusuf Emre Avsar
 Date: 13/01/2025
 */
